@@ -1,7 +1,7 @@
 import streamlit as st
 
 def render_header():
-    st.title("🔮 Personality Predictor")
+    st.title("Personality Predictor")
     st.write("Enter your daily behavior to predict whether you are an Introvert or Extrovert.")
 
 
