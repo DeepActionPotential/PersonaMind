@@ -2,7 +2,7 @@
 
 A lightweight Streamlit app that predicts whether a person is likely an Introvert or Extrovert from simple daily-behavior inputs.
 
----
+
 
 ## Table of Contents
 - **[Demo](#demo)**
